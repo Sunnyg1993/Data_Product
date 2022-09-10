@@ -1,0 +1,18 @@
+---
+title: "Week 3 Assignment"
+author: "Sunny"
+date: "2022/9/10"
+output: slidy_presentation
+---
+
+# Cars
+
+Data is from mtcars, plot shows mpg (Miles/(US) gallon) vs wt (Weight (1000 lbs)), color indicates cyl (Number of cylinders).
+
+```{r, echo=FALSE,warning=FALSE,message=FALSE}
+library(plotly)
+plot_ly(mtcars, x = ~wt, y = ~mpg, type = "scatter", color = ~factor(cyl))
+```
+
+
+# Thanks!
