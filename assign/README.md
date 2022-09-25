@@ -6,6 +6,6 @@
 
 ### The "CourseProjectApp_support_doc.pdf" is a supporting documentation for the app
 
-### The "testCSV_iris.csv" is the example csv file for the app (upload). The data is iris from R, just export as csv, copy right belong to R. You are certaainly welcome to upload your own data set to play around.
+### The "testCSV_iris.csv" is the example csv file for the app (upload). The data is iris from R, just export as csv, copy right belongs to R. You are certaainly welcome to upload your own data set to play around.
 
 ### Thanks!
